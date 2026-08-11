@@ -1,1 +1,2 @@
-"# ddr_sdram_controller" 
+> **DDR SDRAM CONTROLLER**
+
