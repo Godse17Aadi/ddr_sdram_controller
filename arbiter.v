@@ -1,4 +1,3 @@
-
 module arbiter (
     
     //It is a pure combinational logic, hence no need of clk and rst.
@@ -120,5 +119,4 @@ operation finishes          ¦
         end
     end
 endmodule
-
 
